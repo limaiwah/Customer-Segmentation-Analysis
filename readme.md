@@ -35,4 +35,5 @@ The following attributes are extracted from 2 different tables (stock_descriptio
 - Jupyter notebook
 - AWS Redshift connection details
 
-### View Summary of Data in [Tableau](https://public.tableau.com/app/profile/ai.wah.lim/viz/CustomerSegmentationAnalysis_16974510680840/Dashboard1?publish=yes)# Customer-Segmentation-Analysis
+### View Summary of Data in [Tableau](https://public.tableau.com/app/profile/ai.wah.lim/viz/CustomerSegmentationAnalysis_16974510680840/Dashboard1?publish=yes)
+
